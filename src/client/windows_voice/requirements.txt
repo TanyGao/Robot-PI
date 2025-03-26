@@ -1,0 +1,7 @@
+PySide6==6.8.2.1
+pyaudio==0.2.14
+aiohttp==3.9.3
+pydantic==2.6.1
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+numpy==1.26.4
